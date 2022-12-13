@@ -1,0 +1,24 @@
+body{
+    margin: 20px;
+    font-family: Tahoma;
+    
+}
+.card{
+    width:400px;
+    border-bottom: 6px solid #faa307;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin:0px auto;
+
+    background-color: #03071e;
+    color: #faa307;
+    
+}
+.font{
+    border: 1px dotted #faa307;
+    border-radius: 30px;
+}
+.text{
+    text-align: center;
+}
